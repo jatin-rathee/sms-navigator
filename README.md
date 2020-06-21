@@ -6,7 +6,7 @@ During disasters due to the absence of cellular network citizens do not have acc
 
 1. Flask -> Server
 2. Google maps api's -> to get directions
-3. Twillio -> Middleware which provides sms functionality
+3. Twilio -> Middleware which provides sms functionality
 4. Ngrok -> To make local ip public to everyone
 
 
